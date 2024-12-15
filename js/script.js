@@ -89,7 +89,7 @@ var output = [
   "debug: Granting sudo privileges to user 'enact'",
   "debug: Setting telegram account name 'EN1CT'",
   "debug: Setting Discord username 'en1ct'",
-  "debug: Setting Doxbin username 'rape'",
+  "debug: Setting Doxbin username 'enact'",
   "debug: Setting email address 'enact@meowb.in'",
   "debug: Account initialized!"
 ];
