@@ -11,7 +11,7 @@ var data = [
   'Yes\n',
   'enact',
   'enact',
-  'rape',
+  'enact',
   'enact@meowb.in\n\n',
 ]
 
