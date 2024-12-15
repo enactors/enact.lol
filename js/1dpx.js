@@ -17,8 +17,8 @@ var data = [
 
 var info = [
   "Please state the user you would like to add > ",
-  "Please set the password for 'enact123' > ",
-  "Shall we create a home directory for 'enact' > ",
+  "Please set the password for '1dpx123' > ",
+  "Shall we create a home directory for '1dpx' > ",
   "Directory Created, time for your socials!\n\nPlease state your Telegram username, if none put 'N/A' > ",
   "Please state your Discord username, if none put 'N/A' > ",
   "Please state your Doxbin username, if none put 'N/A' > ",
