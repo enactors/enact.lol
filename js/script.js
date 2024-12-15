@@ -16,7 +16,7 @@ var data = [
 ]
 
 var info = [
-  "Please state the user you would like to add > enact",
+  "Please state the user you would like to add > ",
   "Please set the password for 'enact123' > ",
   "Shall we create a home directory for 'enact' > ",
   "Directory Created, time for your socials!\n\nPlease state your Telegram username, if none put 'N/A' > ",
