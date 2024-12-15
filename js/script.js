@@ -88,7 +88,7 @@ var output = [
   "debug: Creating user home directory, /home/enact",
   "debug: Granting sudo privileges to user 'enact'",
   "debug: Setting telegram account name 'EN1CT'",
-  "debug: Setting Discord username 'en1ct'",
+  "debug: Setting Discord username 'enactt'",
   "debug: Setting Doxbin username 'enact'",
   "debug: Setting email address 'enact@meowb.in'",
   "debug: Account initialized!"
