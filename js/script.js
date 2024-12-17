@@ -94,6 +94,8 @@ var output = [
   "debug: Setting telegram account name 'EN1CT'",
   "debug: Setting Discord username 'enactt'",
   "debug: Setting Doxbin username 'enact'",
+  "debug: Setting Breachforums username 'enact'",
+  "debug: Setting X username 'EnactBF'",
   "debug: Setting email address 'enact@meowb.in'",
   "debug: Account initialized!"
 ];
