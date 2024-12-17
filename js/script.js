@@ -23,7 +23,7 @@ var info = [
   "Shall we create a home directory for 'enact' > ",
   "Directory Created, time for your socials!\n\nPlease state your Telegram username, if none put 'N/A' > ",
   "Please state your Discord username, if none put 'N/A' > ",
-  "Please state your Doxbin username, if none put 'N/A' >",
+  "Please state your Doxbin username, if none put 'N/A' > ",
   "Please state your Breachforums username, if none put 'N/A' > ",
   "Please state your X username, if none put 'N/A' > ",
   "Please state your Email, if none put 'N/A' > ",
