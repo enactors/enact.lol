@@ -9,11 +9,9 @@ var data = [
   'enact',
   '********',
   'Yes\n',
-  'enact',
-  'enact',
-  'enact',
+  'EN1CT',
+  'rape',
   'Enact',
-  'EnactBF',
   'enact@meowb.in\n\n',
 ]
 
@@ -22,10 +20,8 @@ var info = [
   "Please set the password for 'enact123' > ",
   "Shall we create a home directory for 'enact' > ",
   "Directory Created, time for your socials!\n\nPlease state your Telegram username, if none put 'N/A' > ",
-  "Please state your Discord username, if none put 'N/A' > ",
   "Please state your Doxbin username, if none put 'N/A' > ",
   "Please state your Breachforums username, if none put 'N/A' > ",
-  "Please state your X username, if none put 'N/A' > ",
   "Please state your Email, if none put 'N/A' > ",
 ];
 
@@ -92,10 +88,8 @@ var output = [
   "debug: Creating user home directory, /home/enact",
   "debug: Granting sudo privileges to user 'enact'",
   "debug: Setting telegram account name 'EN1CT'",
-  "debug: Setting Discord username 'enactt'",
-  "debug: Setting Doxbin username 'enact'",
+  "debug: Setting Doxbin username 'rape'",
   "debug: Setting Breachforums username 'enact'",
-  "debug: Setting X username 'EnactBF'",
   "debug: Setting email address 'enact@meowb.in'",
   "debug: Account initialized!"
 ];
